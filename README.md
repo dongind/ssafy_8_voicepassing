@@ -115,11 +115,7 @@
 
 ### 통화 중 실시간 알림
 
-<<<<<<< HEAD
 - <img src="./assets/overlay.gif" alt="overlay" style="zoom:30%;" />
-=======
-- <img src="./assets/overlay.gif" alt="overlay" style="zoom:20%;" /> 
->>>>>>> 7357d504d43a39c45e5e8dd0008b763c7aa7bb4b
 
 <br>
 
