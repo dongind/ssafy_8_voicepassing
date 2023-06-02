@@ -108,7 +108,7 @@
 
 ### 통화 중 실시간 알림
 
-- <img src="./assets/overlay.gif" alt="overlay" style="zoom:50%;" /> 
+- <img src="./assets/overlay.gif" alt="overlay" style="zoom:20%;" /> 
 
 <br>
 
