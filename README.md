@@ -115,23 +115,23 @@
 
 ### 통화 중 실시간 알림
 
-- <img src="./assets/overlay.gif" alt="overlay" style="zoom:30%;" />
+- <img src="./assets/overlay.gif" alt="overlay" height="400" />
 
 <br>
 
 # 부가 기능 설명
 
 - 검사 이력 조회
-  - <img src="./assets/getResult.gif" alt="getResult" style="zoom:30%;" />
+  - <img src="./assets/getResult.gif" alt="getResult" height="400" />
   - 최종 분석 결과에 따른 주의 혹은 위험한 결과 목록 확인
 - 최근 범죄 통계
-  - <img src="./assets/stat.gif" alt="stat" style="zoom:30%;" />
+  - <img src="./assets/stat.gif" alt="stat" height="400" />
   - 최근 1달내에 적발된 범죄 유형, 키워드, 공통 문장 제공
 - 전화번호 검색
-  - <img src="./assets/phoneNumber.gif" alt="phoneNumber" style="zoom:30%;" />
+  - <img src="./assets/phoneNumber.gif" alt="phoneNumber" height="400" />
   - 악성 전화번호 조회
 - 녹음 파일 검사
-  - <img src="./assets/uploading.gif" alt="uploading" style="zoom:30%;" />
+  - <img src="./assets/uploading.gif" alt="uploading" height="400" />
   - 검사 받을 음성 파일 분석 후 결과 보기
 
 ---
